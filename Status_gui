@@ -1,0 +1,8 @@
+SE41 con el programa SAPLKKBL los status
+
+1. STANDARD_FULLSCREEN
+2. STANDARD 
+3. STDPOPUP_FULLSCREEN - para log de mensajes
+4. SAPLSLVC_FULLSCREEN
+
+Grupo de funciones: KKBL
